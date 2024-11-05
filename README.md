@@ -12,7 +12,7 @@
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="George David- Software Engineer" />
     <meta property="og:description" content="Single Page CV of George David, a Software Engineer." />
-    <meta property="og:image" content="https://res.cloudinary.com/duidrgg1k/image/upload/v1725421776/male-technologist_n0fbey.png" />
+    <meta property="og:image" content="[https://res.cloudinary.com/duidrgg1k/image/upload/v1725421776/male-technologist_n0fbey.](https://roadmap.sh/projects/single-page-cv.png" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://georgedavid.dev" />
     <!-- Favicon -->
